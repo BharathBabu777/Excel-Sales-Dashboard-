@@ -13,11 +13,13 @@ Dynamic filtering options
 Customer count analysis
 Monthly sales trends analysis
 Regional sales distribution analysis
+
 Installation: To use the Excel Sales Analysis Dashboard:
 
 Download and install Microsoft Excel software.
 Open the provided Excel workbook file.
 Interact with the dashboard to explore the sales data insights.
+
 Usage: Explore the Excel Sales Analysis Dashboard to:
 
 Analyze sales trends by category.
